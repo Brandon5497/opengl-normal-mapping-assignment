@@ -60,7 +60,7 @@ Both objects use normal maps to create detailed surface bumps, and the lighting 
 
 ---
 
-## 📂 Project Structure (example)
+## 📂 Project Structure
 
 ```text
 .
