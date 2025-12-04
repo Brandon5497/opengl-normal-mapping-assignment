@@ -7,7 +7,6 @@ It was completed as part of a computer graphics course and extends starter code 
 The scene shows a **golden teapot** resting on a **grass floor**.  
 Both objects use normal maps to create detailed surface bumps, and the lighting can be toggled between a **directional** and a **point light**.
 
-![Screenshot](ProjectAssignment03Screenshot.png)
 
 ---
 
