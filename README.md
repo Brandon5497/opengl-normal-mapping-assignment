@@ -10,7 +10,7 @@ Both objects use normal maps to create detailed surface bumps, and the lighting 
 
 ---
 
-## ✨ Features
+## Features
 
 ### Normal Mapping
 - Uses a **normal map** for the floor (`floorNormal.png`) to create circular engraved patterns.
@@ -41,7 +41,7 @@ Both objects use normal maps to create detailed surface bumps, and the lighting 
 
 ---
 
-## 🧩 Controls
+## Controls
 
 - `ESC` – Quit  
 - `P` – Pause / resume light animation  
@@ -49,7 +49,7 @@ Both objects use normal maps to create detailed surface bumps, and the lighting 
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **moderngl** – modern OpenGL wrapper
@@ -60,7 +60,7 @@ Both objects use normal maps to create detailed surface bumps, and the lighting 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 .
